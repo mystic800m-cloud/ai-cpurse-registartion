@@ -17,3 +17,4 @@ ai_yonalish2=input("Qaysi ai yo'nalishda o'qishni xohlaysiz: ")
 
 print("ismingiz:", name1, "familiyangiz:", surname1, "shaharingiz:", city1, "o'qish joyingiz:", study_place1, "maqsadingiz:", goals1, "haftada darsga qatnashish soni:", ai_lessons1, "yo'nalishingiz:", ai_yonalish1)
 print("ismingiz:", name2, "familiyangiz:", surname2, "shaharingiz:", city2, "o'qish joyingiz:", study_place2, "maqsadingiz:", goals2, "haftada darsga qatnashish soni:", ai_lessons2, "yo'nalishingiz:", ai_yonalish2)
+print("yangi ozgarish kiritildi")
